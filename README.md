@@ -1,4 +1,4 @@
-ISO8583_Parser
+ISO8583_PARSER
 ==============
 
 A simple tool to parse ISO 8583 financial message.
